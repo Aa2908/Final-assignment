@@ -1,0 +1,212 @@
+.background-overlay-fx-icon {
+    position: absolute;
+    top: 361.56px;
+    left: -276.18px;
+    width: 938.61px;
+    height: 896.89px;
+    display: none;
+  }
+  .road-rang {
+    font-weight: 600;
+  }
+  .e {
+    font-weight: 300;
+  }
+  .road-range {
+    position: absolute;
+    top: 61px;
+    left: -38px;
+    font-size: 36px;
+    display: inline-block;
+    width: 271px;
+    height: 55px;
+  }
+  .about-us,
+  .bikes,
+  .service-support {
+    position: absolute;
+    top: 59px;
+    left: 814px;
+    font-weight: 500;
+    display: inline-block;
+    width: 88px;
+    height: 37px;
+  }
+  .about-us,
+  .service-support {
+    left: 961px;
+    width: 153px;
+  }
+  .service-support {
+    left: 1104px;
+    width: 281px;
+  }
+  .take-the-streets {
+    position: absolute;
+    top: -126px;
+    left: 0;
+    font-size: 96px;
+    font-weight: 800;
+    display: flex;
+    align-items: flex-end;
+    width: 493px;
+    height: 480px;
+  }
+  .span {
+    color: var(--color-white);
+  }
+  .ease-your-path-towards-the-fas {
+    font-size: var(--font-size-5xl);
+    color: rgba(255, 255, 255, 0.65);
+  }
+  .shift-your-ridenot-container {
+    position: absolute;
+    top: 331.34px;
+    left: -5px;
+    display: flex;
+    align-items: flex-end;
+    width: 686.14px;
+    height: 125.63px;
+    transform: rotate(-0.03deg);
+    transform-origin: 0 0;
+    font-size: var(--font-size-13xl);
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .road-rage-child {
+    position: absolute;
+    top: 496.84px;
+    left: 301px;
+    border-radius: 20px;
+    background-color: #f40e46;
+    width: 240px;
+    height: 60.89px;
+    transform: rotate(-0.41deg);
+    transform-origin: 0 0;
+    opacity: 0.9;
+  }
+  .bikes-frames {
+    position: absolute;
+    top: 513px;
+    left: 323px;
+    font-weight: 600;
+    display: inline-block;
+    width: 185px;
+    height: 27px;
+  }
+  .essentials-lifestyle {
+    margin: 0;
+  }
+  .essentials-lifestyle-container {
+    position: absolute;
+    top: -447px;
+    left: 617.13px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 182.04px;
+    height: 1085.32px;
+    transform: rotate(0.38deg);
+    transform-origin: 0 0;
+  }
+  .bycycle-png-2 {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width:  849.06px;
+    height: 481.32px;
+    object-fit: cover;
+  }
+  .the-guardian-txt {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .the-guardian,
+  .tnw {
+    align-items: flex-end;
+  }
+  .the-guardian {
+    position: absolute;
+    top: 981px;
+    left: 507px;
+    font-size: var(--font-size-xl);
+    display: flex;
+    font-family: var(--font-cinzel-decorative);
+    text-align: center;
+    width: 135px;
+    height: 69px;
+  }
+  .tnw {
+    top: 1005px;
+    left: 681px;
+    font-family: var(--font-jsmath-cmex10);
+    justify-content: center;
+    width: 88px;
+    height: 87px;
+  }
+  .engadget,
+  .kgs,
+  .kmh-assist-speed-container,
+  .tnw {
+    position: absolute;
+    display: flex;
+    text-align: center;
+  }
+  .engadget {
+    top: 1013px;
+    left: 858px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-koh-santepheap);
+    align-items: flex-end;
+    justify-content: center;
+    width: 100px;
+    height: 29px;
+  }
+  .kgs,
+  .kmh-assist-speed-container {
+    font-family: var(--font-andika-new-basic);
+    align-items: center;
+  }
+  .kmh-assist-speed-container {
+    top: 967px;
+    left: 1004.39px;
+    width: 199.92px;
+    height: 103.94px;
+    transform: rotate(0.77deg);
+    transform-origin: 0 0;
+  }
+  .kgs {
+    top: 1016px;
+    left: 1258px;
+    justify-content: center;
+    width: 90px;
+    height: 33px;
+  }
+  .road-rage-inner,
+  .road-rage-item {
+    position: absolute;
+    top: 26px;
+    left: 9px;
+    width: 1431px;
+    height: 9px;
+  }
+  .road-rage-inner {
+    top: 0;
+    left: 58px;
+    width: 1074.01px;
+    height: 0;
+    display: none;
+  }
+  .road-rage {
+    position: relative;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: right;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  

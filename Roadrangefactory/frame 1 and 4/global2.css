@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-andika-new-basic: "Andika New Basic";
+    --font-koh-santepheap: "Koh Santepheap";
+    --font-jsmath-cmex10: jsMath-cmex10;
+    --font-cinzel-decorative: "Cinzel Decorative";
+    --font-inter: Inter;
+    --font-inherit: inherit;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-xl: 20px;
+    --font-size-13xl: 32px;
+    --font-size-45xl: 64px;
+  
+    /* Colors */
+    --color-gray-100: #1e1e1e;
+    --color-white: #fff;
+    --color-crimson-100: #f40646;
+    --color-crimson-200: rgba(244, 6, 70, 0.85);
+  }
+  

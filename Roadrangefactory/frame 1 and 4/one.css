@@ -1,0 +1,179 @@
+.frame-child {
+    position: absolute;
+    top: 917.73px;
+    left: 151px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-crimson-100);
+    width: 240px;
+    height: 60.89px;
+    transform: rotate(-0.41deg);
+    transform-origin: 0 0;
+    opacity: 0.9;
+  }
+  .bike-1-icon {
+    position: absolute;
+    top: 171px;
+    left: 0;
+    width: 1440px;
+    height: 479px;
+    object-fit: cover;
+  }
+  .road-rang1 {
+    font-weight: 600;
+  }
+  .e1 {
+    font-weight: 300;
+  }
+  .road-range1 {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    width: 271px;
+    height: 55px;
+  }
+  .about-us1,
+  .bikes1,
+  .service-support1 {
+    position: absolute;
+    top: 73px;
+    left: 869px;
+    font-weight: 500;
+    display: inline-block;
+    width: 88px;
+    height: 37px;
+  }
+  .about-us1,
+  .service-support1 {
+    left: 996px;
+    width: 153px;
+  }
+  .service-support1 {
+    top: 77px;
+    left: 1148px;
+    width: 281px;
+  }
+  .essentials-lifestyle1 {
+    margin: 0;
+  }
+  .essentials-lifestyle-container3 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .essentials-lifestyle-container2 {
+    position: absolute;
+    top: -436px;
+    left: 655.13px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 182.04px;
+    height: 1085.32px;
+    transform: rotate(0.38deg);
+    transform-origin: 0 0;
+  }
+  .engadget1,
+  .the-guardian1 {
+    position: absolute;
+    top: 924px;
+    left: 632px;
+    font-size: var(--font-size-xl);
+    display: flex;
+    font-family: var(--font-cinzel-decorative);
+    text-align: center;
+    align-items: flex-end;
+    width: 135px;
+    height: 69px;
+  }
+  .engadget1 {
+    top: 969px;
+    left: 869px;
+    font-family: var(--font-koh-santepheap);
+    justify-content: center;
+    width: 100px;
+    height: 29px;
+  }
+  .kmh-assist-speed-container2 {
+    top: 916px;
+    left: 1017.39px;
+    text-align: center;
+    align-items: center;
+    width: 199.92px;
+    height: 103.94px;
+    transform: rotate(0.77deg);
+    transform-origin: 0 0;
+    font-family: var(--font-andika-new-basic);
+  }
+  .kgs1,
+  .kmh-assist-speed-container2,
+  .take-the-streets1 {
+    position: absolute;
+    display: flex;
+  }
+  .kgs1 {
+    top: 965px;
+    left: 1264px;
+    font-family: var(--font-andika-new-basic);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 33px;
+  }
+  .take-the-streets1 {
+    top: 512px;
+    left: 432px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+    align-items: flex-end;
+    width: 502px;
+    height: 220px;
+  }
+  .span1 {
+    color: var(--color-white);
+  }
+  .ease-your-path-towards-the-fas1 {
+    font-size: var(--font-size-5xl);
+    color: var(--color-gray-300);
+  }
+  .shift-your-ridenot-container2,
+  .shift-your-ridenot-container4 {
+    position: absolute;
+    top: 744.33px;
+    left: 13px;
+    display: flex;
+    align-items: flex-end;
+    width: 686.14px;
+    height: 125.63px;
+    transform: rotate(-0.03deg);
+    transform-origin: 0 0;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-200);
+  }
+  .shift-your-ridenot-container4 {
+    top: 745.33px;
+    left: 729px;
+  }
+  .bikes-frames1 {
+    position: absolute;
+    top: 933px;
+    left: 179px;
+    font-weight: 600;
+    display: inline-block;
+    width: 185px;
+    height: 27px;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: var(--color-gray-100);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: right;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  

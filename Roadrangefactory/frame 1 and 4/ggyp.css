@@ -1,0 +1,224 @@
+.background-overlay-fx-icon1 {
+    position: absolute;
+    top: 361.56px;
+    left: -276.18px;
+    width: 938.61px;
+    height: 896.89px;
+    display: none;
+  }
+  .road-rang1 {
+    font-weight: 600;
+  }
+  .e1 {
+    font-weight: 300;
+  }
+  .road-range1 {
+    position: absolute;
+    top: 61px;
+    left: -38px;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    width: 271px;
+    height: 55px;
+  }
+  .about-us1,
+  .bikes1,
+  .service-support1 {
+    position: absolute;
+    top: 82px;
+    left: 831px;
+    font-weight: 500;
+    display: inline-block;
+    width: 88px;
+    height: 37px;
+  }
+  .about-us1,
+  .service-support1 {
+    left: 958px;
+    width: 153px;
+  }
+  .service-support1 {
+    top: 86px;
+    left: 1110px;
+    width: 281px;
+  }
+  .essentials-lifestyle1 {
+    margin: 0;
+  }
+  .essentials-lifestyle-container3 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .essentials-lifestyle-container2 {
+    position: absolute;
+    top: -427px;
+    left: 617.13px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 182.04px;
+    height: 1085.32px;
+    transform: rotate(0.38deg);
+    transform-origin: 0 0;
+  }
+  .the-guardian1 {
+    position: absolute;
+    top: 981px;
+    left: 507px;
+    font-size: var(--font-size-xl);
+    display: flex;
+    font-family: var(--font-cinzel-decorative);
+    text-align: center;
+    align-items: flex-end;
+    width: 135px;
+    height: 69px;
+  }
+  .tnw1 {
+    top: 1005px;
+    left: 681px;
+    font-family: var(--font-jsmath-cmex10);
+    align-items: flex-end;
+    justify-content: center;
+    width: 88px;
+    height: 87px;
+  }
+  .engadget1,
+  .kgs1,
+  .kmh-assist-speed-container2,
+  .tnw1 {
+    position: absolute;
+    display: flex;
+    text-align: center;
+  }
+  .engadget1 {
+    top: 1013px;
+    left: 858px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-koh-santepheap);
+    align-items: flex-end;
+    justify-content: center;
+    width: 100px;
+    height: 29px;
+  }
+  .kgs1,
+  .kmh-assist-speed-container2 {
+    font-family: var(--font-andika-new-basic);
+    align-items: center;
+  }
+  .kmh-assist-speed-container2 {
+    top: 967px;
+    left: 1004.39px;
+    width: 199.92px;
+    height: 103.94px;
+    transform: rotate(0.77deg);
+    transform-origin: 0 0;
+  }
+  .kgs1 {
+    top: 1016px;
+    left: 1258px;
+    justify-content: center;
+    width: 90px;
+    height: 33px;
+  }
+  .line-icon,
+  .road-rage-child1 {
+    position: absolute;
+    top: 27px;
+    left: 9px;
+    width: 1452.02px;
+    height: 0;
+  }
+  .road-rage-child1 {
+    top: 0;
+    left: 58px;
+    width: 1074.01px;
+    display: none;
+  }
+  .bike-1-icon {
+    position: absolute;
+    top: 142px;
+    left: 0;
+    width: 1440px;
+    height: 479px;
+    object-fit: cover;
+  }
+  .take-the-streets1 {
+    position: absolute;
+    top: 481px;
+    left: -69px;
+    font-size: 40px;
+    font-weight: 800;
+    display: flex;
+    align-items: flex-end;
+    width: 502px;
+    height: 220px;
+  }
+  .span1 {
+    color: var(--color-white);
+  }
+  .ease-your-path-towards-the-fas1 {
+    font-size: var(--font-size-5xl);
+    color: var(--color-gray-300);
+  }
+  .shift-your-ridenot-container2,
+  .shift-your-ridenot-container4 {
+    position: absolute;
+    top: 701.34px;
+    left: 0;
+    display: flex;
+    align-items: flex-end;
+    width: 686.14px;
+    height: 125.63px;
+    transform: rotate(-0.03deg);
+    transform-origin: 0 0;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-200);
+  }
+  .shift-your-ridenot-container4 {
+    top: 701.33px;
+    left: 705px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 882.73px;
+    left: 62px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-crimson-100);
+    width: 240px;
+    height: 60.89px;
+    transform: rotate(-0.41deg);
+    transform-origin: 0 0;
+    opacity: 0.9;
+  }
+  .bikes-frames1 {
+    position: absolute;
+    top: 898px;
+    left: 76px;
+    font-weight: 600;
+    display: inline-block;
+    width: 185px;
+    height: 27px;
+  }
+  .road-rage1 {
+    position: absolute;
+    top: -56px;
+    left: 0;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1440px;
+    height: 1080px;
+    overflow: hidden;
+  }
+  .road-rage-parent {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: right;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  

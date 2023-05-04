@@ -1,0 +1,140 @@
+.frame-176-1-icon {
+    position: absolute;
+    top: 214px;
+    left: 71px;
+    width: 1298.74px;
+    height: 93px;
+    object-fit: cover;
+  }
+  .safe-secure {
+    position: absolute;
+    top: 95px;
+    left: 417px;
+    font-size: 48px;
+    display: inline-block;
+    width: 638px;
+    height: 102px;
+  }
+  .headphones-1-icon {
+    position: absolute;
+    top: 437px;
+    left: 41px;
+    width: 66px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .support-customer {
+    margin: 0;
+  }
+  .support-customer-24hrs-container {
+    position: absolute;
+    top: 450px;
+    left: 143px;
+    text-align: center;
+    display: inline-block;
+    width: 210px;
+    height: 59px;
+  }
+  .securityfinal-1-icon {
+    position: absolute;
+    top: 460px;
+    left: 548px;
+    width: 50.43px;
+    height: 55.55px;
+    object-fit: cover;
+  }
+  .secure-payment-100-container {
+    position: absolute;
+    top: 435px;
+    left: 609px;
+    text-align: center;
+    display: inline-block;
+    width: 244px;
+    height: 74px;
+  }
+  .shipping-1-icon {
+    position: absolute;
+    top: 457px;
+    left: 1031px;
+    width: 93px;
+    height: 52px;
+    object-fit: cover;
+  }
+  .we-deliver-all-container {
+    position: absolute;
+    top: 460px;
+    left: 1140px;
+    text-align: center;
+    display: inline-block;
+    width: 280px;
+    height: 64px;
+  }
+  .background-overlay-child {
+    position: absolute;
+    top: 564px;
+    left: 15.98px;
+    width: 1424.02px;
+    height: 11.5px;
+  }
+  .premiere-mountain-bike-container {
+    position: absolute;
+    top: 806px;
+    left: 29px;
+    display: inline-block;
+    width: 609px;
+    height: 123px;
+  }
+  .blog2 {
+    text-decoration: underline;
+  }
+  .blog1 {
+    color: inherit;
+  }
+  .blog {
+    margin-bottom: 0;
+  }
+  .community-rides {
+    color: var(--font-inherit);
+  }
+  .blog-shop-about-us-contact-us {
+    margin: 0;
+    padding-left: 32px;
+  }
+  .quick-links-blog-container {
+    position: absolute;
+    top: 748px;
+    left: 1180px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--font-inherit);
+    display: inline-block;
+    width: 240px;
+    height: 181px;
+  }
+  .contact-enquiry-01-4590472-container {
+    position: absolute;
+    top: 783px;
+    left: 682px;
+    display: inline-block;
+    width: 458px;
+    height: 282px;
+  }
+  .background-overlay-item {
+    position: absolute;
+    top: 582px;
+    left: 1232.25px;
+    width: 20.48px;
+    height: 101.44px;
+  }
+  .background-overlay {
+    position: relative;
+    background-color: var(--color-gray-100);
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
